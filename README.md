@@ -5,6 +5,7 @@
 [![.NET](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/)
 [![Docker](https://img.shields.io/badge/docker-ready-blue)](https://www.docker.com/)
 
+Такие файлы как README, TESTING, dockerignore, gitignore, dockerfile были созданы с помощью AI для сокращения времени работы и красивого оформления за короткий срок.
 ## ✨ Возможности
 
 - ✅ Древовидная иерархическая модель данных без ограничения уровня вложенности
